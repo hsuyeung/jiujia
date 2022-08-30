@@ -1,0 +1,15 @@
+GET https://wx.scmttec.com/member/wx/memberCenter/getMemberInfo.do HTTP/1.1
+Host: wx.scmttec.com
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+tk: wxtoken:3b39fbd125a28fa87bc3a18651f16e30_0a6c6b4c39b3ddfbd2dd504038628222
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x6307001d)
+st: c9a448b3cd2e93e250890cf08969d4b9
+Cookie: sajssdk_2015_cross_new_user=1; _xxhm_=%7B%22id%22%3A26439645%2C%22openId%22%3A%22o********%22%2C%22unionid%22%3A%22o********%22%2C%22mobile%22%3A%2213658083634%22%2C%22nickName%22%3A%22%E5%B9%B4%E5%B9%B4%E5%A5%BD%E8%BF%90%E8%BF%9E%E8%BF%9E%22%2C%22headerImg%22%3A%22https%3A%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2Fvi_32%2Fj6uMxCEqvqQH4PzAOFStvhbZolvfe4yn4RLicNcQxmtwbyFYTJHMdAKa5zv3uVNklsU9AcIvibc2ZFMx1VSibxjZg%2F132%22%2C%22regionCode%22%3A%22510107%22%2C%22name%22%3A%22%E5%90%B4*%E8%8E%B2%22%2C%22uFrom%22%3A%22depa_vacc_detail%22%2C%22wxSubscribed%22%3A1%2C%22birthday%22%3A%222000-04-03+02%3A00%3A00%22%2C%22sex%22%3A2%2C%22hasPassword%22%3Afalse%2C%22birthdayStr%22%3A%222000-04-03%22%2C%22ymWxMobileAppOpenId%22%3A%22%22%2C%22weiboUid%22%3A%22%22%2C%22appleUserId%22%3A%22%22%2C%22memberStatus%22%3A0%7D; _xzkj_=wxtoken:3b39fbd125a28fa87bc3a18651f16e30_0a6c6b4c39b3ddfbd2dd504038628873; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2218156193467222-0545bdd71fd0cdc-61266c23-2073600-181561934692d5%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTgxNTYxOTM0NjcyMjItMDU0NWJkZDcxZmQwY2RjLTYxMjY2YzIzLTIwNzM2MDAtMTgxNTYxOTM0NjkyZDUifQ%3D%3D%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D%2C%22%24device_id%22%3A%2218156193467222-0545bdd71fd0cdc-61266c23-2073600-181561934692d5%22%7D
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://wx.scmttec.com/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

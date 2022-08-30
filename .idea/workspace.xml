@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3443e1bf-910a-467a-90e6-d8b4eddb895c" name="Changes" comment="docs: 提交配置文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../go" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ban_chengdu" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23dMrMBkWtfI5UpWgWL9PhI0mSy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "D:/xuyang/code/go/project/jiujia",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xuyang\code\go\project\jiujia" />
+      <recent name="D:\xuyang\code\go\project\jiujia\config\log" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xuyang\code\go\project\jiujia\deploy" />
+      <recent name="D:\xuyang\code\go\project\jiujia\miaomiao" />
+      <recent name="D:\xuyang\code\go\project\jiujia\util\fileutil" />
+      <recent name="D:\xuyang\code\go\project\jiujia\util" />
+      <recent name="D:\xuyang\code\go\project\jiujia" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build miaomiao">
+    <configuration name="go build miaomiao" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jiujia" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="miaomiao" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build miaomiao/cmd/miaomiao" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jiujia" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="miaomiao/cmd/miaomiao" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/cmd/miaomiao/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build miaomiao" />
+        <item itemvalue="Go Build.go build miaomiao/cmd/miaomiao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/gotable" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="功能完成，待优化整理代码" />
+    <MESSAGE value="feat: 免费版本 v1.0 发布" />
+    <MESSAGE value="feat: 最小化功能版本完成" />
+    <MESSAGE value="feat: 付费版v1.0发布" />
+    <MESSAGE value="style: 修改错误信息打印格式" />
+    <MESSAGE value="feat: 新增批量打包工具" />
+    <MESSAGE value="fix: 修复读取直辖市数据失败的问题" />
+    <MESSAGE value="refactor: 使用 aes 加密替换 md5 加密" />
+    <MESSAGE value="style: 修改注释错误" />
+    <MESSAGE value="refactor: 确定接口，删除加密操作" />
+    <MESSAGE value="refactor: 优化接口" />
+    <MESSAGE value="refactor: 秒苗小程序无法抓包，改为抓约苗公众号的包，因此修改 tk 和 cookie 的读取顺序" />
+    <MESSAGE value="feat: 添加 golang-lint 配置" />
+    <MESSAGE value="refactor: 修改抓包示例（约苗公众号）" />
+    <MESSAGE value="style: 增加注释" />
+    <MESSAGE value="docs: 更新 README" />
+    <MESSAGE value="refactor: 删除过期的打包文件" />
+    <MESSAGE value="build: 打包文件" />
+    <MESSAGE value="docs: 提交配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: 提交配置文件" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
